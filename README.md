@@ -1,4 +1,4 @@
-# Project Name
+# Customer Banking Exercise
 
 A simple banking system project with Python.
 
